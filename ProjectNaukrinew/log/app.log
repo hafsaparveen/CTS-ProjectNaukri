@@ -1,0 +1,26 @@
+2020-04-11 07:36:50.968 INFO [main] [stepdefinition.Login_TC] [i_navigate_to_login_page] [stepdefinition.Login_TC.i_navigate_to_login_page(Login_TC.java:25)] - Browser Launches
+2020-04-11 07:36:51.875 INFO [main] [stepdefinition.Login_TC] [i_open_home_page] [stepdefinition.Login_TC.i_open_home_page(Login_TC.java:33)] - Website opens
+2020-04-11 07:36:52.831 INFO [main] [stepdefinition.Login_TC] [click_on_login_button] [stepdefinition.Login_TC.click_on_login_button(Login_TC.java:56)] - login successfull
+2020-04-11 07:36:53.424 INFO [main] [stepdefinition.Login_TC] [click_on_login_button] [stepdefinition.Login_TC.click_on_login_button(Login_TC.java:59)] - Screenshot is taken successfully
+2020-04-11 07:39:28.594 INFO [main] [stepdefinition.Login_TC] [i_navigate_to_login_page] [stepdefinition.Login_TC.i_navigate_to_login_page(Login_TC.java:25)] - Browser Launches
+2020-04-11 07:39:28.795 INFO [main] [stepdefinition.Login_TC] [i_open_home_page] [stepdefinition.Login_TC.i_open_home_page(Login_TC.java:33)] - Website opens
+2020-04-11 07:39:29.951 INFO [main] [stepdefinition.Login_TC] [click_on_login_button] [stepdefinition.Login_TC.click_on_login_button(Login_TC.java:56)] - login successfull
+2020-04-11 07:39:30.477 INFO [main] [stepdefinition.Login_TC] [click_on_login_button] [stepdefinition.Login_TC.click_on_login_button(Login_TC.java:59)] - Screenshot is taken successfully
+2020-04-11 07:39:44.457 INFO [main] [stepdefinition.Login_TC] [the_user_opens_the_browser] [stepdefinition.Jobsearch_TC.the_user_opens_the_browser(Jobsearch_TC.java:22)] - Browser Launches
+2020-04-11 07:39:45.126 INFO [main] [stepdefinition.Login_TC] [user_enters_the_skill] [stepdefinition.Jobsearch_TC.user_enters_the_skill(Jobsearch_TC.java:29)] - Webpage opens and gives the skills
+2020-04-11 07:39:45.382 INFO [main] [stepdefinition.Login_TC] [i_enter_a_location] [stepdefinition.Jobsearch_TC.i_enter_a_location(Jobsearch_TC.java:36)] - Webpage opens and gives the location
+2020-04-11 07:39:45.580 INFO [main] [stepdefinition.Login_TC] [click_on_jobsearch_button] [stepdefinition.Jobsearch_TC.click_on_jobsearch_button(Jobsearch_TC.java:43)] - Successfully searches
+2020-04-11 07:39:46.254 INFO [main] [stepdefinition.Login_TC] [click_on_jobsearch_button] [stepdefinition.Jobsearch_TC.click_on_jobsearch_button(Jobsearch_TC.java:46)] - Screenshot is taken successfully
+2020-04-11 07:40:03.049 INFO [main] [stepdefinition.Login_TC] [i_launch_a_browser] [stepdefinition.companygovt_TC.i_launch_a_browser(companygovt_TC.java:25)] - Webpage opens
+2020-04-11 07:40:08.093 INFO [main] [stepdefinition.Login_TC] [i_click_on_government_jobs] [stepdefinition.companygovt_TC.i_click_on_government_jobs(companygovt_TC.java:46)] - Search of Government job is successful
+2020-04-11 07:40:08.795 INFO [main] [stepdefinition.Login_TC] [i_click_on_inidan_army] [stepdefinition.companygovt_TC.i_click_on_inidan_army(companygovt_TC.java:59)] - successfully found the jobs
+2020-04-11 07:40:09.295 INFO [main] [stepdefinition.Login_TC] [i_click_on_inidan_army] [stepdefinition.companygovt_TC.i_click_on_inidan_army(companygovt_TC.java:62)] - Screenshot is taken successfully
+2020-04-11 07:40:25.421 INFO [main] [stepdefinition.Login_TC] [user_launches_browser_page] [stepdefinition.Recuiters_TC.user_launches_browser_page(Recuiters_TC.java:24)] - Webpage opens successfully
+2020-04-11 07:40:31.546 INFO [main] [stepdefinition.Login_TC] [user_click_on_particular_recuiter] [stepdefinition.Recuiters_TC.user_click_on_particular_recuiter(Recuiters_TC.java:59)] - successfully found reciter
+2020-04-11 07:40:32.524 INFO [main] [stepdefinition.Login_TC] [user_click_on_particular_recuiter] [stepdefinition.Recuiters_TC.user_click_on_particular_recuiter(Recuiters_TC.java:62)] - Screenshot is taken successfully
+2020-04-11 07:40:58.959 INFO [main] [stepdefinition.Login_TC] [user_selects_logout] [stepdefinition.Server_TC.user_selects_logout(logout_TC.java:43)] - Successfully opened service page
+2020-04-11 07:40:59.317 INFO [main] [stepdefinition.Login_TC] [user_selects_logout] [stepdefinition.Server_TC.user_selects_logout(logout_TC.java:46)] - Screenshot is taken successfully
+2020-04-11 07:51:54.341 INFO [main] [stepdefinition.Login_TC] [i_navigate_to_login_page] [stepdefinition.Login_TC.i_navigate_to_login_page(Login_TC.java:26)] - Browser Launches
+2020-04-11 07:51:54.579 INFO [main] [stepdefinition.Login_TC] [i_open_home_page] [stepdefinition.Login_TC.i_open_home_page(Login_TC.java:33)] - Website opens
+2020-04-11 07:51:55.684 INFO [main] [stepdefinition.Login_TC] [click_on_login_button] [stepdefinition.Login_TC.click_on_login_button(Login_TC.java:53)] - login successfull
+2020-04-11 07:51:58.552 INFO [main] [stepdefinition.Login_TC] [click_on_login_button] [stepdefinition.Login_TC.click_on_login_button(Login_TC.java:56)] - Screenshot is taken successfully

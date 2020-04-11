@@ -1,0 +1,88 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "Login to site",
+        "description": "",
+        "id": "test-login-in-naukri;login-to-site",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 29792481754,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I navigate to login page",
+            "match": {
+              "location": "Login_TC.i_navigate_to_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 173469861,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I open home page",
+            "match": {
+              "location": "Login_TC.i_open_home_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 741975361,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enter username",
+            "match": {
+              "location": "Login_TC.user_enter_username()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 141219142,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user enters password",
+            "match": {
+              "location": "Login_TC.the_user_enters_password()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 3078377172,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "click on login button",
+            "match": {
+              "location": "Login_TC.click_on_login_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@Naukri_1"
+          }
+        ]
+      }
+    ],
+    "name": "Test login in naukri",
+    "description": "",
+    "id": "test-login-in-naukri",
+    "keyword": "Feature",
+    "uri": "naukri.feature"
+  }
+]
