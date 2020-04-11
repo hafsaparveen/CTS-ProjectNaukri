@@ -18,7 +18,7 @@ And click on jobsearch button
 
 
 @Naukri_3
-Scenario: To search for company reviews
+Scenario: To search for govt jobs
 Given I launch a browser  
 When I open Companies page
 Then I click on government jobs
@@ -36,7 +36,7 @@ Then user click on particular Recuiter
 
 
 @Naukri_5
-Scenario: To logout from the page
+Scenario: To open service page
 Given Open chrome and start naukri application
 When User enters valid username and password
 Then user must able to login
